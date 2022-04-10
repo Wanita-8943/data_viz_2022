@@ -12,4 +12,4 @@ Basic Programming for Data Science and Data Visualization : วานิตา �
 
 * FINAL fundi GROUP
   * [GITHUB](https://github.com/Wanita-8943/data_viz_2022/blob/main/Final_DataViz.ipynb)
-  * [DASHBOARD]
+  * [DASHBOARD](https://datastudio.google.com/u/0/reporting/2ee31e56-f5bc-4f54-9b96-85ff7d4623b1/page/UWCqC?fbclid=IwAR3kFyQYXnfxzc0BZOAZpRmsV0HTTOQ50b7g_toSBPbjFdvg7yyh-UjMgGY)
